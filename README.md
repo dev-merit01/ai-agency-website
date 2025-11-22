@@ -1,16 +1,97 @@
-# React + Vite
+**Intelli.ai** - its a website for a company that do ai and data processing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A modern, responsive, and interactive website built using ReactJS, TailwindCSS, and Framer Motion. This project demonstrates a clean UI/UX, smooth animations, and scalable front-end architecture suitable for modern web applications.**
 
-Currently, two official plugins are available:
+**Table of Contents**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Demo
 
-## React Compiler
+-Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+-Technologies Used
 
-## Expanding the ESLint configuration
+-Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-Usage
+
+-Contributing
+
+-License
+
+**Demo**
+
+Soon
+
+**Features**
+
+- Built with ReactJS for a modular and maintainable component-based architecture
+
+- Styled using TailwindCSS for rapid, responsive design and custom theming
+
+- Smooth animations and transitions powered by Framer Motion
+
+- Fully responsive design optimized for desktop, tablet, and mobile
+
+- Interactive UI elements for engaging user experience
+
+- Scalable structure for easy maintenance and future enhancements
+
+**Technologies Used**
+
+ **ReactJS** – Front-end library for building interactive UI components
+
+**TailwindCSS** – Utility-first CSS framework for modern styling
+
+**Framer Motion** – Animation library for React to create smooth, dynamic motion
+
+**JavaScript (ES6+)** – Core logic and interactivity
+
+**Installation**
+
+1 Clone the repository:
+
+2 git clone https://github.com/your-username/project-name.git
+
+
+3 Navigate into the project folder:
+
+4 cd project-name
+
+
+4 Install dependencies:
+
+5 npm install
+
+
+6 Start the development server:
+
+ **npm run dev**
+
+
+Open http://localhost:5173
+ to view the project in your browser.
+
+**Usage**
+
+Navigate through pages/components to explore features
+
+Interact with animations and dynamic elements powered by Framer Motion
+
+Customize TailwindCSS classes for theming and layout adjustments
+
+Contributing
+
+Fork the repository
+
+Create a new branch (git checkout -b feature-name)
+
+Commit your changes (git commit -m 'Add feature')
+
+Push to the branch (git push origin feature-name)
+
+Open a Pull Request
+
+License
+
+This project is licensed under the MIT License. See the LICENSE
+ file for details.
